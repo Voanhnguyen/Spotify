@@ -6,10 +6,10 @@
     <data>
         <variable
             name="service"
-            type="com.example.spotifyclone555.service.MusicService" />
+            type="com.example.spotifyapp.service.MusicService" />
         <variable
             name="song"
-            type="com.example.spotifyclone555.model.Song" />
+            type="com.example.spotifyapp.model.Song" />
     </data>
 
     <LinearLayout

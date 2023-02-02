@@ -7,7 +7,7 @@
     <data>
         <variable
             name="service"
-            type="com.example.spotifyclone555.service.MusicService" />
+            type="com.example.spotifyapp.service.MusicService" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

@@ -7,12 +7,12 @@
 
     <fragment
         android:id="@+id/albumFragment"
-        android:name="com.example.spotifyclone555.ui.album.AlbumFragment"
+        android:name="com.example.spotifyapp.ui.album.AlbumFragment"
         android:label="fragment_album"
         tools:layout="@layout/fragment_album">
         <argument
             android:name="album"
-            app:argType="com.example.spotifyclone555.model.Album" />
+            app:argType="com.example.spotifyapp.model.Album" />
     </fragment>
 
 </navigation>

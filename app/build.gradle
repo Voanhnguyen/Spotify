@@ -10,7 +10,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.spotifyclone555"
+        applicationId "com.example.spotifyapp"
         minSdk 26
         targetSdk 32
         versionCode 1
