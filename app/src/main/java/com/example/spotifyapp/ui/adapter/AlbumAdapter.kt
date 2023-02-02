@@ -4,9 +4,9 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.navigation.Navigation
 import androidx.recyclerview.widget.RecyclerView
-import com.example.spotifyapp.databinding.AlbumPreviewItemBinding
 import com.example.spotifyapp.model.Album
 import com.example.spotifyapp.ui.home.HomeFragmentDirections
+import com.example.spotifyapp.databinding.AlbumPreviewItemBinding
 
 class AlbumAdapter(private val children : List<Album>): RecyclerView.Adapter<AlbumAdapter.ViewHolder>(){
 

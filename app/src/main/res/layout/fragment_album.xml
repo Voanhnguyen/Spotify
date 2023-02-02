@@ -5,7 +5,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".ui.album.AlbumFragment">
+        tools:context="com.example.spotifyapp.ui.album.AlbumFragment">
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/album_recycler_view"

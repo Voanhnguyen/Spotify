@@ -13,11 +13,12 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
-import com.example.spotifyapp.databinding.ActivityMainBinding
 import com.example.spotifyapp.model.Album
 import com.example.spotifyapp.model.Song
 import com.example.spotifyapp.service.MusicService
 import com.example.spotifyapp.viewmodel.MainViewModel
+import com.example.spotifyapp.R
+import com.example.spotifyapp.databinding.ActivityMainBinding
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 

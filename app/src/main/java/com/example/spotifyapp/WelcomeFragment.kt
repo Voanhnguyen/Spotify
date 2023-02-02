@@ -7,8 +7,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.findNavController
-import com.example.spotifyapp.databinding.FragmentWelcomeBinding
 import com.example.spotifyapp.viewmodel.WelcomeViewModel
+import com.example.spotifyapp.databinding.FragmentWelcomeBinding
 
 class WelcomeFragment : Fragment() {
     private val viewModel: WelcomeViewModel by activityViewModels()

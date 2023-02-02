@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SpotifyClone555</string>
+    <string name="app_name">SpotifyApp</string>
     <string name="channel_name">spotify_clone</string>
     <string name="channel_description">spotify clone music service</string>
     <string name="sign_up_free">Sign up free</string>
